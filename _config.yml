@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site-theme               : "default"
+site-theme               : "air"
 title                    : "Sharjeel Mustafa"
 title_separator          : "-"
 name                     : &name "Sharjeel Mustafa"
